@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "afkbot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "FlexiOliver.aternos.me",
+    "port": 37353,
     "version": "",
     "try-creative": false
   },
@@ -27,7 +27,7 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
